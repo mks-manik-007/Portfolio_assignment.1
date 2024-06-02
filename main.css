@@ -1,0 +1,12 @@
+/*About me start*/
+
+ .about-me-container{
+    display: flex;
+    justify-content: space-between;
+    color: var(---color3);
+  
+}
+
+.about-me-des{
+   padding: 10px;
+}

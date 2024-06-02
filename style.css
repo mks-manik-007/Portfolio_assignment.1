@@ -1,0 +1,110 @@
+.container-header{
+    background-color: var(---color1_BG);
+    background-repeat: no-repeat;
+    height: 100%;
+    padding-top: 20px;
+ 
+}
+
+.nav-container{
+    padding: 20px 50px;
+}
+
+.total-nav{
+
+    display: flex;
+    justify-content: space-between;
+    
+
+}
+
+.nav-left{
+    width: 93px;
+    height: 48px;
+    color: var(---color2);
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-size: 32px;
+    gap: 24px;
+}
+
+.nav-right{
+    display: flex;
+    justify-content: space-between;
+    gap: 50px;
+    color: var(---color3);
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+}
+
+.nav-right-cv{
+    width: fit-content;
+    padding: 4px 7px;
+    background-color: var(---color2);
+    margin: 10px 0px;
+}
+
+.nav-right-cv button{
+    color: var(---color3);
+}
+
+
+#star-logo{
+    width: 34px;
+    height: 34px;
+    rotate: 3.97deg;
+}
+
+.banner-title{
+    color: var(---color3);
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.banner-des{
+    padding-top: 20px;
+    padding-bottom: 28px;
+    color: var(---color3);
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.banner-skills{
+    color: var(---color3);
+    font-size: 24px;
+    font-weight: 300;
+}
+
+.banner-box{
+    color: var(---color3);
+    display: flex;
+    border: 20px wheat;
+}
+
+.left-1{
+    display: flex;
+    gap: 0px;
+    padding: 0px 10px;
+    background-color: var(---color2);
+    border-radius: 25px;
+    color: var(---color3);
+}
+
+.check-icon{
+    width: 17.5px;
+    height: 17.5px;
+    padding: 12.25px 12.25px;
+  
+}
+
+#banner-pic{
+   width: 538px;
+   height: 617.24px;
+}
+
+.banner-container{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 50px;
+    font-family: "Poppins", sans-serif;
+}
